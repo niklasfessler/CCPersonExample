@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BE0F8058-78EB-48A0-87BD-598BE1366853}|Default">
+  <MonoDevelop.Ide.ItemProperties.PersonMarriagr FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PersonMarriagr/Gender.cs">
+    <Files>
+      <File FileName="PersonMarriagr/Program.cs" Line="10" Column="63" />
+      <File FileName="PersonMarriagr/Person.cs" Line="16" Column="25" />
+      <File FileName="PersonMarriagr/Gender.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PersonMarriagr" expanded="True">
+            <Node name="PersonMarriagr" expanded="True">
+              <Node name="Gender.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/bin/Debug/netcoreapp3.1/PersonMarriagr.deps.json
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/bin/Debug/netcoreapp3.1/PersonMarriagr.runtimeconfig.json
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/bin/Debug/netcoreapp3.1/PersonMarriagr.runtimeconfig.dev.json
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/bin/Debug/netcoreapp3.1/PersonMarriagr.dll
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/bin/Debug/netcoreapp3.1/PersonMarriagr.pdb
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/obj/Debug/netcoreapp3.1/PersonMarriagr.csprojAssemblyReference.cache
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/obj/Debug/netcoreapp3.1/PersonMarriagr.AssemblyInfoInputs.cache
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/obj/Debug/netcoreapp3.1/PersonMarriagr.AssemblyInfo.cs
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/obj/Debug/netcoreapp3.1/PersonMarriagr.csproj.CoreCompileInputs.cache
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/obj/Debug/netcoreapp3.1/PersonMarriagr.dll
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/obj/Debug/netcoreapp3.1/PersonMarriagr.pdb
+/Users/niklasfessler/Projects/PersonMarriagr/PersonMarriagr/obj/Debug/netcoreapp3.1/PersonMarriagr.genruntimeconfig.cache
